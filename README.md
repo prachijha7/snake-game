@@ -1,4 +1,4 @@
-# Snake Game 🐍
+# The Snake Game 🐍
 
 A classic Snake game made with Python's Turtle graphics module. Control the snake, collect food, and try to beat your high score without hitting the walls or your own tail.
 
@@ -72,7 +72,3 @@ Your high score is saved in `data.txt` when a round ends, provided you have beat
 ## What I Learned
 
 This project helped me practise Python, object-oriented programming, functions, loops, keyboard event handling, collision detection, and file handling. It also gave me experience organizing a project across multiple Python files.
-
----
-
-Made as a Python practice project.
